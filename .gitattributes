@@ -55,7 +55,7 @@
 *.ogg  binary filter=lfs diff=lfs merge=lfs
 *.ogv  binary filter=lfs diff=lfs merge=lfs
 *.pdf  binary filter=lfs diff=lfs merge=lfs
-*.svg  binary filter=lfs diff=lfs merge=lfs
+# *.svg  binary filter=lfs diff=lfs merge=lfs
 *.png  binary
 *.rar  binary filter=lfs diff=lfs merge=lfs
 *.swf  binary
